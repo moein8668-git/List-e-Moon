@@ -38,7 +38,7 @@ Built with **PHP 8**, **MySQL**, and **Tailwind CSS**, it features a modern, dar
 1.  **Clone or Download**
     Clone this repository or download the latest release to your server.
     ```bash
-    git clone [https://github.com/moein8668-git/List-e-Moon.git](https://github.com/moein8668-git/List-e-Moon.git)
+    git clone https://github.com/moein8668-git/List-e-Moon.git
     ```
 
 2.  **Set Permissions**
