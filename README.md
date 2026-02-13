@@ -10,13 +10,10 @@ Built with **PHP 8**, **MySQL**, and **Tailwind CSS**, it features a modern, dar
 ## 📸 Screenshots
 
 ![Dashboard Placeholder](assets/img/git/screenshot1.png)
-*(Screenshots coming soon)*
 
 ![Profile Placeholder](assets/img/git/screenshot2.png)
-*(Screenshots coming soon)*
 
 ![Mobile UI Placeholder](assets/img/git/screenshot3.png)
-*(Screenshots coming soon)*
 
 ## ✨ Features
 
