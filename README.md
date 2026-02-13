@@ -9,7 +9,7 @@ Built with **PHP 8**, **MySQL**, and **Tailwind CSS**, it features a modern, dar
 
 ## 📸 Screenshots
 
-![Dashboard Placeholder](assets/img/git/screenshot1.png)
+![Dashboard Placeholder](assets/img/git/screenshot01.png)
 
 ![Profile Placeholder](assets/img/git/screenshot2.png)
 
