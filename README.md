@@ -66,18 +66,4 @@ Built with **PHP 8**, **MySQL**, and **Tailwind CSS**, it features a modern, dar
 
 This project is open-source software licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
-## ❤️ Support the Project
-
-This project is open-source and developed in my free time. If you find the **List-e-Moon** useful, please consider supporting its development!
-
-### Cryptocurrency Donations
-
-| Coin | Address |
-| :--- | :--- |
-| **Bitcoin (BTC)** | `bc1q5l70mhm77sqst6r4tkvmwqx4lmr0fc6ex64enc`|
-| **Ethereum (ETH)** | `0x9598F7cF3ee2dAad2a06b808980FD8182cC73311`|
-| **Solana (SOL)** | `36CdEL4rdtqX6PQdx7eYejbVBaoBPt8xEh8u4qncX6ML`|
-| **TRON (TRX)** | `TD9tPyd6DpinMnkiQBaXKxCcunCDQyvyFz`|
-| **Toncoin (TON)** | `UQDb9vadr4Kd14dMtRcrOiZzYqAfT2MeOzcciUC1Sw_3XG69`|
-
 Created with ❤️ by **[@moein8668-git](https://github.com/moein8668-git)**.
